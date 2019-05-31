@@ -22,7 +22,7 @@ A python coded numerical model that tries to prepare a model i.e. simplification
                    The model develops through several steps with different number of variables at each step.
             </font>
 
-            <ol><font size="4">
+            <ol>
                                <li>Tank model with two outlets using 'if...elif...else' conditional concepts</li>
                                <li>Tank model discharge with time series using concepts of 'For Loop'</li>
                                <li>Read and store precipitation data using concepts of 'File Manipulation'</li>
@@ -31,6 +31,6 @@ A python coded numerical model that tries to prepare a model i.e. simplification
                                    Manipulation'concepts</li>
                                <li>Function to estimate Q using concepts of
                                'Functions'</li>
-                </font>
+                
             </ol>          
 </blockquote>
