@@ -32,11 +32,9 @@ A python coded numerical model that tries to prepare a model i.e. simplification
                    'Functions'</li>
             </font>          
 </blockquote>
-***
 <h2><ul><li>Exercise 1. Tank model with Two Outlets</li></ul></h2>
-***
 <img src="https://github.com/KedarGHAG/TransversalExercise-TankProblem/blob/master/TransversalExercise1.JPG">
-<p><center><font size="3"><strong>Figure 1. Tank model with two outlets</strong></font></center></p>
+<center><font size="3"><strong>Figure 1. Tank model with two outlets</strong></font></center>
 
 ### <u>Discription</u> :
 <blockquote><font size="4">
