@@ -34,7 +34,7 @@ A python coded numerical model that tries to prepare a model i.e. simplification
 </blockquote>
 <h2><ul><li>Exercise 1. Tank model with Two Outlets</li></ul></h2>
 <img src="https://github.com/KedarGHAG/TransversalExercise-TankProblem/blob/master/TransversalExercise1.JPG">
-<center><font size="3"><strong>Figure 1. Tank model with two outlets</strong></font></center>
+<h3><strong>Figure 1. Tank model with two outlets</strong></h3>
 
 ### <u>Discription</u> :
 <blockquote><font size="4">
